@@ -87,6 +87,33 @@ c. Nilai Rataan (μ) dan Varian (σ²) dari DistribusiChi-Square.
 
 ![image](https://user-images.githubusercontent.com/87472849/162604949-a9e205b9-ee5d-4798-8569-c5766b893911.png)
 
+## Soal 5
+
+Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Tentukan
+
+a. Fungsi Probabilitas dari Distribusi Exponensial
+
+![image](https://user-images.githubusercontent.com/87472849/162621032-92758d10-1222-4129-8c77-d892a4644f7f.png)
+
+b. Histogram dari Distribusi Exponensial untuk 10, 100, 1000 dan 10000 bilangan random
+
+Bilangan random 10:
+![image](https://user-images.githubusercontent.com/87472849/162621069-330e9af5-485d-4031-a07c-aee994a47fe8.png)
+
+Bilangan random 100:
+![image](https://user-images.githubusercontent.com/87472849/162621081-3ea95607-b929-4f6c-96df-0b76c008d193.png)
+
+Bilangan random 1000:
+![image](https://user-images.githubusercontent.com/87472849/162621104-eb3a0b29-386e-4294-ab97-e900cc9f3352.png)
+
+Bilangan random 10000:
+![image](https://user-images.githubusercontent.com/87472849/162621119-c2b3e8d4-39b5-48d8-9777-bde6c1065415.png)
+
+c. Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Exponensial untuk n = 100 dan λ = 3
+
+![image](https://user-images.githubusercontent.com/87472849/162621149-177db3bf-c40b-4462-8c6f-a2ab264b2dcc.png)
+
+
 
 
 
