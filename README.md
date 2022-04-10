@@ -50,6 +50,25 @@ c. Nilai Rataan (μ) dan Varian (σ²) dari DistribusiBinomial.
 
 ![image](https://user-images.githubusercontent.com/87472849/162604570-5016c314-9389-4d14-936d-4dce90bcf6d3.png)
 
+## Soal 3
+
+Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis 4,5 bayi lahir di rumah sakit ini setiap hari. (gunakan Distribusi Poisson)
+
+a. Berapa peluang bahwa 6 bayi akan lahir di rumah sakit ini besok?
+
+![image](https://user-images.githubusercontent.com/87472849/162604632-2995906e-278f-40e4-acb3-2d8e6d78dd23.png)
+
+b. simulasikan dan buatlah histogram kelahiran 6 bayi akan lahir di rumah sakit ini selama
+setahun (n = 365)
+
+![image](https://user-images.githubusercontent.com/87472849/162604656-ddc80aec-503f-4a7d-8fca-78fb95b6f6e8.png)
+
+c. dan bandingkan hasil poin a dan b , Apa kesimpulan yang bisa didapatkan
+
+
+d. Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Poisson.
+
+![image](https://user-images.githubusercontent.com/87472849/162604724-c0ea3c33-3ec7-40fa-a1d0-b4bbfa1083ee.png)
 
 
 
