@@ -114,6 +114,22 @@ c. Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Exponensial untuk n = 100
 ![image](https://user-images.githubusercontent.com/87472849/162621149-177db3bf-c40b-4462-8c6f-a2ab264b2dcc.png)
 
 
+## Soal 6
+
+Diketahui generate random nilai sebanyak 100 data, mean = 50, sd = 8. Tentukan
+
+a. Fungsi Probabilitas dari Distribusi Normal P(X1 ≤ x ≤ X2), hitung Z-Score Nya dan plot data generate randomnya dalam bentuk grafik. Petunjuk(gunakan fungsi plot()).
+
+![image](https://user-images.githubusercontent.com/87472849/162623414-56401037-17a3-47a9-810e-c74837435b5e.png)
+
+b. Generate Histogram dari Distribusi Normal dengan breaks 50
+
+![image](https://user-images.githubusercontent.com/87472849/162623456-0bcd3a4c-feb8-42ee-8850-2f3b80984c1b.png)
+
+c. Nilai Varian (σ²) dari hasil generate random nilai Distribusi Normal.
+
+![image](https://user-images.githubusercontent.com/87472849/162623474-a082e894-c248-4c99-a756-fc446a5c26b7.png)
+
 
 
 
