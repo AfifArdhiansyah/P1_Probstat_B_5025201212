@@ -71,6 +71,23 @@ d. Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Poisson.
 ![image](https://user-images.githubusercontent.com/87472849/162604724-c0ea3c33-3ec7-40fa-a1d0-b4bbfa1083ee.png)
 
 
+## Soal 4
+
+Diketahui nilai x = 2 dan v = 10. Tentukan:
+
+a. Fungsi Probabilitas dari Distribusi Chi-Square.
+
+![image](https://user-images.githubusercontent.com/87472849/162604919-b4d74888-2eba-4da2-86b9-be762c011a18.png)
+
+b. Histogram dari Distribusi Chi-Square dengan 100 data random.
+
+![image](https://user-images.githubusercontent.com/87472849/162604934-2aedd72e-d909-4669-91f5-e193c0421332.png)
+
+c. Nilai Rataan (μ) dan Varian (σ²) dari DistribusiChi-Square.
+
+![image](https://user-images.githubusercontent.com/87472849/162604949-a9e205b9-ee5d-4798-8569-c5766b893911.png)
+
+
 
 
 
